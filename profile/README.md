@@ -1,6 +1,6 @@
 # Sandia National Labs
 
-![Supercomputing at Sandia National Labs](https://live.staticflickr.com/5107/5619464787_b114018334_3k.jpg)
+![Supercomputing at Sandia National Labs](../assets/snlsupercomputing.jpg)
 
 Welcome to the Sandia National Laboratories organization — a hub for our GitHub-hosted open source projects. 
 
