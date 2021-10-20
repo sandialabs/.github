@@ -1,4 +1,4 @@
-![Supercomputing at Sandia National Labs](/assets/snlsupercomputing.jpg)
+![Supercomputing at Sandia National Labs](/assets/snlzmachine.jpg)
 
 Welcome to the Sandia National Laboratories organization — a hub for our GitHub-hosted open source projects. 
 
