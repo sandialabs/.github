@@ -1,4 +1,4 @@
-# Sandia National Labs
+# Sandia National Laboratories
 
 ![Supercomputing at Sandia National Labs](/assets/snlsupercomputing.jpg)
 
@@ -6,6 +6,6 @@ Welcome to the Sandia National Laboratories organization — a hub for our GitHu
 
 ---
 
-_Sandia National Laboratories is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., 
+_[Sandia National Laboratories](www.sandia.gov) is a multimission laboratory managed and operated by National Technology and Engineering Solutions of Sandia, LLC., 
 a wholly owned subsidiary of Honeywell International, Inc., for the U.S. Department of Energy’s National Nuclear Security Administration
 under contract DE-NA-0003525._
